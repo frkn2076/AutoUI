@@ -1,5 +1,5 @@
 # AutoUI
-A simple project that draws ui for published web services.
+A simple project that draws ui to send post and get requests for published web services.
 
 ## Take a look at the following screenshoots.
 
