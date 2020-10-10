@@ -1,5 +1,5 @@
 # AutoUI
-A simple project that draws ui for published web services. This project will be transformed into framework.
+A simple project that draws ui for published web services.
 
 ## Take a look at the following screenshoots.
 
